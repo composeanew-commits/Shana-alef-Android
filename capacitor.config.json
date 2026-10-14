@@ -1,0 +1,6 @@
+{
+  "appId": "com.derech.talmidtracker",
+  "appName": "Talmid Tracker",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
